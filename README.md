@@ -1,4 +1,4 @@
-### 记录下action文件分析过程.
+### 记录下火影·新世代游戏中的action文件分析过程.
 
 首先该游戏是用Unity5.6.x搞的，所以是用的mono2.0，mono自己实现了一套.net framework 2.0和.net framework 3.5.
 
